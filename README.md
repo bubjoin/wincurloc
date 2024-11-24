@@ -5,3 +5,6 @@
 ### made with help from the ChatGPT  
 ### 2024. 11. 23. example2 - 3d
 ### Thank you, Gustavo Pezzi from PIKUMA!  
+  
+![](https://github.com/bubjoin/wincurloc/blob/main/wcl_demo.gif)  
+  
